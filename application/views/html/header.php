@@ -79,7 +79,7 @@
 					<ul class="sign-in">
 						<li><i class="fa fa-user"></i></li>
 						<li><a href="signin.html">Sign In</a></li>
-						<li><a href="signup.html">Register</a></li>
+						<li><a href="<?php echo base_url('employee/register'); ?>">Register</a></li>
 					</ul><!-- sign-in -->					
 
 					<a href="post.html" class="btn">Post Your Job</a>
